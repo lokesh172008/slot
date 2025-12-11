@@ -1,4 +1,4 @@
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/1081a4b8-f127-4e3c-949e-5f7a450a313a" /># Ex03 Time Table
+# Ex03 Time Table
 ## Date:27/11/2025
 ## NAME:LOKESH ACHARI.K REGNO:25012708
 
